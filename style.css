@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fdfdfd; color: #333; }
+.hero { text-align: center; padding: 3rem 1rem; background: linear-gradient(135deg, #ff6600, #ffcc00); color: #fff; }
+.logo { max-width: 120px; }
+.cta-buttons { margin-top: 1rem; }
+.btn { padding: 0.7rem 1.2rem; background: #fff; color: #ff6600; border-radius: 8px; text-decoration: none; font-weight: bold; margin: 0.5rem; display: inline-block; }
+.btn.secondary { background: #333; color: #fff; }
+nav { background: #ff6600; padding: 0.5rem; text-align: center; }
+nav a { margin: 0 1rem; color: #fff; text-decoration: none; font-weight: bold; }
+section { padding: 2rem 1rem; max-width: 800px; margin: auto; }
+.flyer-block { text-align: center; margin: 2rem 0; }
+.flyer { max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 1rem; }
+.video-wrapper { text-align: center; }
+footer { text-align: center; padding: 1rem; background: #333; color: #fff; margin-top: 2rem; }
